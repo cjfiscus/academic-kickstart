@@ -64,3 +64,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+<h4> I am an evolutionary geneticist who studies how genome architecture varies across scales and influences adaptation.
+
+I am currently a graduate student in the [Koenig Lab](http://koeniglab.com/) at UC Riverside. 
