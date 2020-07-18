@@ -14,20 +14,21 @@ role: PhD Candidate in Genetics, Genomics & Bioinformatics
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Riverside
+- name: UC Riverside
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Evolutionary genomics
-- Plant Genetics
+- Genome architecture
+- Plant genetics
 
 education:
   courses:
   - course: BSc in Biotechnology
-    institution: University of California, Davis 
+    institution: UC Davis 
     year: 2015
 
 # Social/Academic Networking
@@ -47,11 +48,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/cjfiscus
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,4 +64,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
