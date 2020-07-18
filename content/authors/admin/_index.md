@@ -51,9 +51,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-<h4> I am an evolutionary geneticist who studies how genome architecture varies across scales and influences adaptation.
+I am an evolutionary geneticist who studies how genome architecture varies across scales and influences adaptation.  
 
 I am currently a graduate student in the [Koenig Lab](http://koeniglab.com/) at UC Riverside. 
